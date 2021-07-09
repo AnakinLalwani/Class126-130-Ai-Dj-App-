@@ -1,0 +1,40 @@
+.heading {
+    font-size: 27px;
+    width: 100%;
+    margin: 0;
+}
+.note {
+    font-size: 16px;
+    background-color: black;
+}
+.div_speed {
+    float: left;
+    font-size: 20px;
+}
+.div_volume {
+    float: right;
+}
+.image {
+    width: 200px;
+    border-radius: 100px;
+}
+#play {
+    font-size: 20px;
+    width: 20%;
+}
+.div_h3 {
+    font-size: 20px;
+}
+canvas {
+    border: 5px solid white;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 60px;
+}
+.div_footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    left: 0;
+    font-size: 17px;
+}
